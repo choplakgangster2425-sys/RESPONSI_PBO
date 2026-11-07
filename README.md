@@ -51,4 +51,4 @@ Pastikan JDK sudah terpasang dan perintah `javac` serta `java` tersedia di
 
 ![Screenshot luaran program](image.png)
 ![Screenshot luaran program]({14DFE8A5-3FDC-4300-8021-1581D4F6594F}.png)
-![Screenshot Luaran Program]({170505F9-DDE0-400A-ACB6-93FF95955DBB}.png)
+![Screenshot Luaran Program]({39479239-A131-4090-84C7-3695BBFA7341}.png)
